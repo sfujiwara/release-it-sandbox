@@ -7,6 +7,7 @@
   },
   "github": {
     "release": true,
-    "releaseName": "v${version}"
+    "releaseName": "v${version}",
+    "releaseNotes": "echo hello"
   }
 }
