@@ -1,4 +1,9 @@
 {
+  "git": {
+    "commitMessage": "chore: release v${version}",
+    "requireBranch": "master",
+    "tagName": "v${version}"
+  },
   "github": {
     "release": true
   }
